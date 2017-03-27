@@ -1,0 +1,11 @@
+.header, .footer {
+	background-color: blue;
+	color: white;
+}
+
+.background {
+	background-color: yellow;
+	color: black;
+	font-family: Arial;
+}
+
